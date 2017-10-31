@@ -12,4 +12,5 @@ A modest selection of technologies and programming languages.
 - [Trump Tweets](https://github.com/fyi2/TrumpTweets-Alexa). A fun app that if you speak to Alexa and ask for trump tweets using his favorite adjectives you get 'extra' tweets.
 
 ### Python/Django
-- [django Productivity](https://github.com/fyi2/Django-Productivity). An initial skeleton on building a productivity portal in Python/Django
+- [Django Productivity](https://github.com/fyi2/Django-Productivity). An initial skeleton on building a productivity portal in Python/Django
+- [Django Play Me](https://github.com/fyi2/DjangoPlayMe). A Django website offering betting and a few casino games.
