@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Projects
 
-You can use the [editor on GitHub](https://github.com/fyi2/TonySherman/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A modest selection of technologies and programming languages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Android
+- [MBTA next train](https://github.com/fyi2/NextTrain-Android). **Published**
+- [Health tracker](https://github.com/fyi2/HealthTrackerv01). An excercise in prototyping a health tracking application
 
-### Markdown
+### Alexa
+- [MBTA next train](https://github.com/fyi2/NextTrain-Alexa). Voice controlled an highly configurable Alexa skill that gives the next few trains in and outbound from a specified station on Boston's MBTA, plus how late they are running.
+- [Geek Quotes](https://github.com/fyi2/geekQuotes). A **published** Alexa skill that connects to a geek joke API, for some early morning fun.
+- [Trump Tweets](https://github.com/fyi2/TrumpTweets-Alexa). A fun app that if you speak to Alexa and ask for trump tweets using his favorite adjectives you get 'extra' tweets.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fyi2/TonySherman/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Python/Django
+- [{django Productivity](https://github.com/fyi2/Django-Productivity). An initial skeleton on building a productivity portal in Python/Django
