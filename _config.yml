@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Tony's GitHub projects
 description: A showcase for various technologies.
+remote_theme: mmistakes/minimal-mistakes
+
