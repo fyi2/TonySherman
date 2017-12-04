@@ -5,7 +5,7 @@ A modest selection of technologies and programming languages.
 ### Android
 - [MBTA next train](https://github.com/fyi2/NextTrain-Android). **Published**
 - [Health tracker](https://github.com/fyi2/HealthTrackerv01). An excercise in prototyping a health tracking application
-- [Blood Alcohol Content] (https://github.com/fyi2/BloodAlcoholContent). An App to help you track you drinking during a night out, and over the weekend.
+- [Blood Alcohol Content](https://github.com/fyi2/BloodAlcoholContent). An App to help you track you drinking during a night out, and over the weekend.
 
 ### Alexa
 - [MBTA next train](https://github.com/fyi2/NextTrain-Alexa). Voice controlled an highly configurable Alexa skill that gives the next few trains in and outbound from a specified station on Boston's MBTA, plus how late they are running.
