@@ -3,7 +3,7 @@
 A modest selection of technologies and programming languages.
 
 ### Android
-- [MBTA next train](https://github.com/fyi2/NextTrain-Android). **Published**
+- [MBTA next train](https://github.com/fyi2/NextTrain-Android). **[Published](https://play.google.com/store/apps/details?id=org.sherman.tony.nexttrain&hl=en)**
 - [Health tracker](https://github.com/fyi2/HealthTrackerv01). An excercise in prototyping a health tracking application
 - [Blood Alcohol Content](https://github.com/fyi2/BloodAlcoholContent). An App to help you track you drinking during a night out, and over the weekend.
 - [My Resume](https://github.com/fyi2/MyResume). A simple App that acts as a resume.
